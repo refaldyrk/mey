@@ -5,9 +5,10 @@ Client Sharef Using Go
 Bcs I Love Mey
 
 ## Demo
+### Receive
 https://github.com/refaldyrk/mey/assets/88225369/0206a393-31bb-4f11-bcaa-f24f385abe25
 
-
+### Send
 https://github.com/refaldyrk/mey/assets/88225369/8bc4cc47-13cf-45b7-849f-ef760a66e5f6
 
 
