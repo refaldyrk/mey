@@ -5,8 +5,13 @@ Client Sharef Using Go
 Bcs I Love Mey
 
 ## Demo
-<iframe width="640" height="360" src="demo/demo%20(1).mp4" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="demo/demo%20(2).mp4" frameborder="0" allowfullscreen></iframe>
+https://github.com/refaldyrk/mey/assets/88225369/0206a393-31bb-4f11-bcaa-f24f385abe25
+
+
+https://github.com/refaldyrk/mey/assets/88225369/8bc4cc47-13cf-45b7-849f-ef760a66e5f6
+
+
+
 
 ## How To Run?
 Pastikan Anda Sudah Punya Host Core Sharef
