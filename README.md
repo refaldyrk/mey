@@ -4,6 +4,10 @@ Client Sharef Using Go
 ## Why Mey?
 Bcs I Love Mey
 
+## Demo
+<video src="demo/demo%20(1).mp4"></video>
+<video src="demo/demo%20(2).mp4"></video>
+
 ## How To Run?
 Pastikan Anda Sudah Punya Host Core Sharef
 
