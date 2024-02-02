@@ -5,8 +5,8 @@ Client Sharef Using Go
 Bcs I Love Mey
 
 ## Demo
-<video src="demo/demo%20(1).mp4"></video>
-<video src="demo/demo%20(2).mp4"></video>
+<iframe width="640" height="360" src="demo/demo%20(1).mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="demo/demo%20(2).mp4" frameborder="0" allowfullscreen></iframe>
 
 ## How To Run?
 Pastikan Anda Sudah Punya Host Core Sharef
